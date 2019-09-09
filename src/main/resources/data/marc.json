@@ -1,0 +1,47 @@
+{
+  "controlfields": [
+    {
+      "tag": "001",
+      "data": "MIZAN"
+    },
+    {
+      "tag": "002",
+      "data": "JASMIZAN"
+    }
+  ],
+  "datafields": [
+    {
+      "tag": "040",
+      "ind1": "0",
+      "ind2": "1",
+      "value": "MIZAN",
+      "subfield": [
+        {
+          "code": "a",
+          "data": "SADASDASDASDASDDFEWFW"
+        }
+      ]
+    },
+    {
+      "tag": "040",
+      "ind1": "0",
+      "ind2": "1",
+      "value": "MIZAN",
+      "subfield": [
+        {
+          "code": "a",
+          "data": "SADASDASDASDASDDFEWFW"
+        },
+        {
+          "code": "b",
+          "data": "SADASDASDASDASDDFEWFW"
+        },
+        {
+          "code": "d",
+          "data": "SADASDASDASDASDDFEWFW"
+        }
+      ]
+    }
+
+  ]
+}

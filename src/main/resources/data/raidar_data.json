@@ -1,0 +1,148 @@
+{
+  "asset_header_info": {
+    "Leader": "LEADER",
+    "ControlNumber": "ControlID",
+    "ControlNumberIdentifier": "SASDSDASDDSDSA",
+    "Receiver": "Receiver",
+    "Sender": "Sender",
+    "Token": "Token",
+    "AssetTitle": "Title",
+    "AssetSubTitle": "SubTitle",
+    "Copyright": "Copyright"
+  },
+  "asset_resource_list": {
+    "audio_recording_list": [
+      {
+        "recording_date": "Jun 19, 2019 4:46:25 PM",
+        "title_of_track": "Title Of Track1",
+        "display_artist": {
+          "full_names": [
+            {
+              "name": "Mizanul Chowdhury1",
+              "user_name": "mizanul.chowdhury@gmail.com1",
+              "id": "BERKLEEID2323231",
+              "idp": "google1"
+            }
+          ],
+          "contact_infos": [
+            {
+              "address": "232 Harvard, Boston, MA-021261",
+              "email": "mizanul.chowdhury@gmail.com1"
+            }
+          ],
+          "artist_roles": [
+            "some role1"
+          ],
+          "group_name": [
+            "BBAGED1"
+          ],
+          "references": [
+            "some reff1"
+          ],
+          "label_name": "some labelName1",
+          "recording_right": "Copy right 20191",
+          "lyrics": "erewrererfdnjfkjeiofrjoiefksndkljlijeirjwkndjklasiojdilknewkldn1",
+          "genre": "classical1",
+          "audio_technical_detail": {
+            "technical_resource_details_reference": "technicalResourceDetailsReference1",
+            "audio_codec_type": "HSEM1",
+            "is_preview": true,
+            "preview_details": {
+              "startPoint": "some startPoint1",
+              "expressionType": "some expressionType1"
+            },
+            "file_object": {
+              "file_name": "O Duniya Ke Rakh Wale1",
+              "file_path": "http://some-domain/rest/o_duniya_ke_rakh_waLe.mp41",
+              "hash_sum": {
+                "hash_sum": "HashSum1",
+                "hash_sum_algorithm_type": "HashSumAlgorithmTyp1"
+              }
+            }
+          },
+          "ethnicity": "asian",
+          "gender": "M"
+        }
+      },
+      {
+        "recording_date": "Jun 19, 2019 4:46:25 PM",
+        "title_of_track": "Title Of Track2",
+        "display_artist": {
+          "full_names": [
+            {
+              "name": "Mizanul Chowdhury2",
+              "user_name": "mizanul.chowdhury2@gmail.com2",
+              "id": "BERKLEEID2323232",
+              "idp": "google2"
+            }
+          ],
+          "contact_infos": [
+            {
+              "address": "232 Harvard, Boston, MA-021262",
+              "email": "mizanul.chowdhury2@gmail.com"
+            }
+          ],
+          "artist_roles": [
+            "some role2"
+          ],
+          "group_name": [
+            "BBAGED2"
+          ],
+          "references": [
+            "some reff2"
+          ],
+          "label_name": "some labelName2",
+          "recording_right": "Copy right 20192",
+          "lyrics": "erewrererfdnjfkjeiofrjoiefksndkljlijeirjwkndjklasiojdilknewkldn2",
+          "genre": "classical2",
+          "audio_technical_detail": {
+            "technical_resource_details_reference": "technicalResourceDetailsReference2",
+            "audio_codec_type": "HSEM2",
+            "is_preview": true,
+            "preview_details": {
+              "startPoint": "some startPoint2",
+              "expressionType": "some expressionType2"
+            },
+            "file_object": {
+              "file_name": "O Duniya Ke Rakh Wale2",
+              "file_path": "http://some-domain/rest/o_duniya_ke_rakh_waLe2.mp4",
+              "hash_sum": {
+                "hash_sum": "HashSum2",
+                "hash_sum_algorithm_type": "HashSumAlgorithmTyp2"
+              }
+            }
+          },
+          "ethnicity": "asian",
+          "gender": "M"
+        }
+      }
+    ],
+    "image_list": {
+      "image_type": "some image Type",
+      "image_id": "some image Id",
+      "image_details_by_territory": {
+        "territory_code": "TerritoryCode",
+        "image_id": "ImageId",
+        "image_details_by_territory": "ImageDetailsByTerritory"
+      }
+    },
+    "vide_recording_list": [
+      {}
+    ],
+    "movie_recording_list": [
+      {}
+    ]
+  },
+  "release_list": {
+    "release": [
+      {
+        "c_line": {}
+      }
+    ]
+  },
+  "deal_list": {
+    "release": [
+      {}
+    ]
+  }
+}

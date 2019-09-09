@@ -1,0 +1,7 @@
+﻿SoundRecording,AudioRecording
+ResourceReference,Reference
+Type,RecordingType
+ResourceId,RecordingId
+DisplayTitleText,TitleText
+DisplayTitle,Title
+DisplayArtist,Artist

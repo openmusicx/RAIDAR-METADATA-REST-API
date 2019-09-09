@@ -1,0 +1,17 @@
+﻿0xx,Bibliographic control numbers and coded information
+1xx,Authorized access points
+2xx,"Titles, edition, and publication information, etc."
+3xx,"Physical characteristics and arrangement, graphic representation, publication frequency, etc."
+4xx,Series statements
+5xx,Notes
+6xx,Subject access points
+7xx,Added access points
+8xx,Series access points and holdings data
+9xx,Local use fields
+X00,Personal names	
+X40,Bibliographic titles
+X10,Corporate names	
+X50,Topical terms
+X11,Meeting names	
+X51,Geographic names
+X30,Uniform titles
