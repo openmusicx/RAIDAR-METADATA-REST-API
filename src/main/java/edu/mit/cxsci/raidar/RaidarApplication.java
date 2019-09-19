@@ -38,6 +38,12 @@ import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 
+/**
+ *
+ * @author Mizanul H. Chowdhuury, MIT
+ * @version 1.0
+ **/
+
 @SpringBootApplication
 public class RaidarApplication {
 	public static void main(String[] args) throws Exception {
